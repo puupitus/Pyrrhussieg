@@ -30,18 +30,18 @@
 #                                      where you choose the historical division name.
 #           3rd argument is optional = An URL preferably pointing to the WIKI. It's a future feature that is not currently working in
 #                                      the current game version.
-WRU_INF_01 = 
+SOV_INF_01 = 
 {
 	name = "Rifle Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "infantry" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Strelkovaya Diviziya"
 
@@ -465,18 +465,18 @@ WRU_INF_01 =
 	}
 }
 
-WRU_CAV_01 = 
+SOV_CAV_01 = 
 {
 	name = "Cavalry Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "cavalry" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Kavaleriyskaya Diviziya"
 
@@ -602,18 +602,18 @@ WRU_CAV_01 =
 	}
 }
 
-WRU_MOT_01 = 
+SOV_MOT_01 = 
 {
 	name = "Motor Rifle Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "motorized" }
 
 	# Number reservation system will tie to another group.
-	link_numbering_with = { WRU_INF_01 }
+	link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Motostrelkovaya Diviziya"
 
@@ -667,18 +667,18 @@ WRU_MOT_01 =
 	}
 }
 
-WRU_MEC_01 = 
+SOV_MEC_01 = 
 {
 	name = "Mechanized Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "mechanized" "motorized" }
 
 	# Number reservation system will tie to another group.
-	link_numbering_with = { WRU_INF_01 }
+	link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Mekhanizirovanaya Diviziya"
 
@@ -720,18 +720,18 @@ WRU_MEC_01 =
 	}
 }
 
-WRU_ARM_01 = 
+SOV_ARM_01 = 
 {
 	name = "Tank Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Tankovaya Diviziya"
 
@@ -813,18 +813,18 @@ WRU_ARM_01 =
 	}
 }
 
-WRU_ARM_02 = 
+SOV_ARM_02 = 
 {
 	name = "Tank Corps"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Tankovaya Korpus"
 
@@ -906,18 +906,18 @@ WRU_ARM_02 =
 	}
 }
 
-WRU_ARM_03 = 
+SOV_ARM_03 = 
 {
 	name = "Guard Tank Corps"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { has_war = yes }
 
 	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Gvardeiskaya Tankovaya Korpus"
 
@@ -999,18 +999,18 @@ WRU_ARM_03 =
 	}
 }
 
-WRU_ARM_04 = 
+SOV_ARM_04 = 
 {
 	name = "Tank Brigade"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Tankovaya Brigada"
 
@@ -1092,18 +1092,18 @@ WRU_ARM_04 =
 	}
 }
 
-WRU_PAR_01 = 
+SOV_PAR_01 = 
 {
 	name = "Paratrooper Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "paratrooper" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Vozdushno-Desantnaya Div."
 
@@ -1150,18 +1150,18 @@ WRU_PAR_01 =
 	}
 }
 
-WRU_MAR_01 = 
+SOV_MAR_01 = 
 {
 	name = "Marine Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "marine" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Diviziya Morskoi Pekhoty"
 
@@ -1182,18 +1182,18 @@ WRU_MAR_01 =
 	}
 }
 
-WRU_MNT_01 = 
+SOV_MNT_01 = 
 {
 	name = "Mountain Rifle Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "mountaineers" }
 
 	# Number reservation system will tie to another group.
-	link_numbering_with = { WRU_INF_01 }
+	link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Gornostrelkovaya Diviziya"
 
@@ -1226,18 +1226,18 @@ WRU_MNT_01 =
 	}
 }
 
-WRU_GAR_01 = 
+SOV_GAR_01 = 
 {
 	name = "Garrison Division"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "infantry" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya NKVD Pogranichnaya Diviziya"
 
@@ -1327,18 +1327,18 @@ WRU_GAR_01 =
 	}
 }
 
-WRU_GRD_01 = 
+SOV_GRD_01 = 
 {
 	name = "Guards Rifles"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "infantry" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Gvardyeiskaya Strelk. Div."
 
@@ -1478,18 +1478,18 @@ WRU_GRD_01 =
 	}
 }
 
-WRU_GMC_01 = 
+SOV_GMC_01 = 
 {
 	name = "Guards Mechanized"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "mechanized" "motorized" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Gvds. Mekhanizirovanaya Korpus"
 
@@ -1509,18 +1509,18 @@ WRU_GMC_01 =
 	}
 }
 
-WRU_GTC_01 = 
+SOV_GTC_01 = 
 {
 	name = "Guards Tanks"
 
-	for_countries = { WRU }
+	for_countries = { SOV }
 
 	can_use = { always = yes }
 
 	division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
 
 	# Number reservation system will tie to another group.
-	#link_numbering_with = { WRU_INF_01 }
+	#link_numbering_with = { SOV_INF_01 }
 
 	fallback_name = "%dya Gvds. Tankovaya Korpus"
 

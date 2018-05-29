@@ -68,60 +68,46 @@ create_country_leader = {
 	name = "Enver Hoxha"
 	picture = "enver_hoxha.dds"
 	ideology = vanguardist
-	traits = { zeitgeist_default
-		#
-	}
+	traits = { ps_default }
 }
 
 create_country_leader = {
 	name = "Enver Hoxha"
 	picture = "enver_hoxha.dds"
 	ideology = syndicalist
-	traits = { zeitgeist_default
-		#
-	}
+	traits = { ps_default }
 }
 
 create_country_leader = {
 	name = "Enver Hoxha"
 	picture = "enver_hoxha.dds"
 	ideology = social_democrat
-	traits = { zeitgeist_default
-		#
-	}
+	traits = { ps_default }
 }
 
 create_country_leader = {
 	name = "Shefqet Vërlaci"
 	picture = "shefqet_verlaci.dds"
 	ideology = liberalist
-	traits = { zeitgeist_default
-		#
-	}
+	traits = { ps_default }
 }
 
 create_country_leader = {
 	name = "Shefqet Vërlaci"
 	picture = "shefqet_verlaci.dds"
 	ideology = conservatistic
-	traits = { zeitgeist_default
-		#
-	}
+	traits = { ps_default }
 }
 create_country_leader = {
 	name = "Vidi I"
 	picture = "william_of_wied.dds"
 	ideology = autocrat
-	traits = { zeitgeist_default
-		#
-	}
+	traits = { ps_default }
 }
 
 create_country_leader = {
 	name = "Tefik Mborja"
 	picture = "tefik_mborja.dds"
 	ideology = nationalist
-	traits = { zeitgeist_default
-		#
-	}
+	traits = { ps_default }
 }
