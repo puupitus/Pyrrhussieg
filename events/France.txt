@@ -1,0 +1,107 @@
+add_namespace = fra
+
+
+country_event = {
+	id = fra.1
+	title = fra.1.t
+	desc = fra.1.d
+	picture = GFX_zeitgeist2
+
+	is_triggered_only = yes
+
+	option = {
+		name = fra.1.a
+      ai_chance = {
+        factor = 50
+      }
+			BRI = { add_political_power = 50 }
+			FRA = { set_country_flag = NO_TERMS }
+  }
+  option = {
+		name = fra.1.b
+      ai_chance = {
+        factor = 50
+      }
+			BRI = { add_political_power = 200 }
+  }
+
+}
+country_event = {
+	id = fra.2
+	title = fra.2.t
+	desc = fra.2.d
+	picture = GFX_zeitgeist2
+
+	is_triggered_only = yes
+
+	option = {
+		name = fra.2.a
+      ai_chance = {
+        factor = 50
+      }
+		FRA = { set_country_flag = BRITAIN_SUBMITS }
+		BRI = { add_political_power = -100 }
+  }
+  option = {
+		name = fra.2.b
+      ai_chance = {
+        factor = 50
+      }
+		FRA = { set_country_flag = BRITAIN_REJECTS }
+		BRI = { add_political_power = 100 }
+  }
+
+}
+country_event = {
+	id = fra.3
+	title = fra.3.t
+	desc = fra.3.d
+	picture = GFX_zeitgeist2
+
+	is_triggered_only = yes
+
+	option = {
+		name = fra.3.a
+      ai_chance = {
+        factor = 50
+      }
+		BRI = { transfer_state = 119 }
+		IRE = { add_political_power = -100 }
+  }
+  option = {
+		name = fra.3.b
+      ai_chance = {
+        factor = 50
+      }
+		FRA = { set_country_flag = IRELAND_DECLINES }
+		IRE = { add_political_power = 100 }
+  }
+
+}
+country_event = {
+	id = fra.4
+	title = fra.4.t
+	desc = fra.4.d
+	picture = GFX_zeitgeist2
+
+	is_triggered_only = yes
+
+	option = {
+		name = fra.4.a
+      ai_chance = {
+        factor = 50
+      }
+		FRA = { transfer_state = 165 }
+		FRA = { transfer_state = 166 }
+		FRA = { transfer_state = 167 }
+  }
+  option = {
+		name = fra.4.b
+      ai_chance = {
+        factor = 50
+      }
+			FRA = { create_wargoal = { target = IBE type = take_state_focus } }
+		  FRA = { declare_war_on = { target = IBE type = take_state_focus } }
+  }
+
+}
