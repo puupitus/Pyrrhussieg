@@ -1,61 +1,127 @@
-﻿capital = 44
+capital = 44
 
-OOB = "ALB_1936"
-
+oob = "ALB_1936"
+set_country_flag = EUROPEAN
+set_country_flag = MUSLIM
+# Starting tech
 set_technology = {
 	infantry_weapons = 1
+	infantry_weapons1 = 1
 	tech_support = 1
-	tech_recon = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	early_fighter = 1
+	early_bomber = 1
+	early_submarine = 1
+	early_destroyer = 1
+	early_light_cruiser = 1
+	early_heavy_cruiser = 1
+	early_battleship = 1
+	early_battlecruiser = 1
+	transport = 1
+	early_carrier = 1
 }
+
+set_convoys = 50
+set_research_slots = 6
 
 set_politics = {
 
-	parties = {
-		democratic = { 
-			popularity = 0
-		}
+		parties = {
+			vanguardism = {
+				popularity = 20
+			}
 
-		fascism = {
-			popularity = 0
+			syndicalism = {
+				popularity = 15
+			}
+
+			social_democracy = {
+				popularity = 10
+			}
+
+			liberalism = {
+				popularity = 5
+			}
+
+			conservatism = {
+				popularity = 5
+			}
+
+			autocracy = {
+				popularity = 40
+			}
+
+			nationalism = {
+				popularity = 5
+			}
 		}
-		
-		communism = {
-			popularity = 0
-		}
-		
-		neutrality = { 
-			popularity = 100
-		}
-	}
-	
-	ruling_party = neutrality
-	last_election = "1933.3.5"
+	ruling_party = autocracy
+	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
-set_convoys = 5
-
-#Victor Emmanuel III of Italy after 39
 create_country_leader = {
-	name = "King Zog"
-	desc = "POLITICS_KING_ZOG_DESC"
-	picture = "Portrait_Albania_King_Zog.dds"
-	expire = "1965.1.1"
-	ideology = despotism
-	traits = {
+	name = "Enver Hoxha"
+	picture = "enver_hoxha.dds"
+	ideology = vanguardist
+	traits = { zeitgeist_default
 		#
 	}
 }
 
-create_field_marshal = {
-	name = "Xhemal Aranitasi"
-	portrait_path = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
-	traits = { }
-	skill = 2
-	attack_skill = 1
-    defense_skill = 3
-    planning_skill = 2
-    logistics_skill = 1
+create_country_leader = {
+	name = "Enver Hoxha"
+	picture = "enver_hoxha.dds"
+	ideology = syndicalist
+	traits = { zeitgeist_default
+		#
+	}
 }
 
+create_country_leader = {
+	name = "Enver Hoxha"
+	picture = "enver_hoxha.dds"
+	ideology = social_democrat
+	traits = { zeitgeist_default
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Shefqet Vërlaci"
+	picture = "shefqet_verlaci.dds"
+	ideology = liberalist
+	traits = { zeitgeist_default
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Shefqet Vërlaci"
+	picture = "shefqet_verlaci.dds"
+	ideology = conservatistic
+	traits = { zeitgeist_default
+		#
+	}
+}
+create_country_leader = {
+	name = "Vidi I"
+	picture = "william_of_wied.dds"
+	ideology = autocrat
+	traits = { zeitgeist_default
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Tefik Mborja"
+	picture = "tefik_mborja.dds"
+	ideology = nationalist
+	traits = { zeitgeist_default
+		#
+	}
+}

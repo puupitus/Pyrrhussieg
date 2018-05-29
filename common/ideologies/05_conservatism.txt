@@ -1,17 +1,11 @@
 ideologies = {
 
-	monarchism = {
+	conservatism = {
 
 		types = {
 
-      absolutism = {
+      conservatistic = {
       }
-
-      theocratism = {
-      }
-
-      oligarchy = {
-			}
 
 		}
 
@@ -23,7 +17,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_5"
 		}
 
-		color = { 115 0 168 }
+		color = { 0 74 127 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -40,7 +34,7 @@ ideologies = {
 			join_faction_tension = 1.01
 		}
 
-	  ai_fascist = yes # uses the fascist AI behaviour
+	  ai_democratic = yes # uses the democratic AI behaviour
 
 		}
 

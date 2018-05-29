@@ -1,87 +1,30 @@
 bookmarks = {
 	bookmark = {
-		name = "ZEITGEIST_NAME"
-		desc = "ZEITGEIST_DESC"
+		name = "PS_NAME"
+		desc = "PS_DESC"
 		date = 1936.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "FRA"
+		default_country = "GER"
 		default = yes
 
-		"FRA"={
-			history = "FRA_ZEITGEIST_DESC"
-			ideology = monarchism
-			ideas = {	}
-			focuses = { }
-		}
-		"POL"={
-			history = "POL_ZEITGEIST_DESC"
+		"GER"={
+			history = "GER_PS_DESC"
 			ideology = nationalism
-			ideas = {	}
-			focuses = { }
-		}
-		"JAP"={
-			history = "JAP_ZEITGEIST_DESC"
-			ideology = nationalism
-			ideas = {	}
-			focuses = { }
-		}
-		"HUN"={
-			history = "HUN_ZEITGEIST_DESC"
-			ideology = monarchism
-			ideas = {	}
-			focuses = { }
-		}
-		"MEX"={
-			history = "MEX_ZEITGEIST_DESC"
-			ideology = socialism
-			ideas = {	}
-			focuses = { }
-		}
-		"OTT"={
-			history = "OTT_ZEITGEIST_DESC"
-			ideology = monarchism
 			ideas = {	}
 			focuses = { }
 		}
 
 	  "---"={
-			history = "OTHER_ZEITGEIST_DESC"
+			history = "OTHER_PS_DESC"
 		}
 		"FIN"={
 			minor = yes
-			history = "FIN_ZEITGEIST_DESC"
-			ideology = socialism
+			history = "FIN_PS_DESC"
+			ideology = autocracy
 			ideas = {	}
 			focuses = { }
 		}
-		"WFI"={
-			minor = yes
-			history = "WFI_ZEITGEIST_DESC"
-			ideology = nationalism
-			ideas = {	}
-			focuses = { }
-		}
-		"POM"={
-			minor = yes
-			history = "POM_ZEITGEIST_DESC"
-			ideology = monarchism
-			ideas = {	}
-			focuses = { }
-		}
-		"HAN"={
-			minor = yes
-			history = "HAN_ZEITGEIST_DESC"
-			ideology = republicanism
-			ideas = {	}
-			focuses = { }
-		}
-		"RHI"={
-			minor = yes
-			history = "RHI_ZEITGEIST_DESC"
-			ideology = socialism
-			ideas = {	}
-			focuses = { }
-		}
+
 
 
 

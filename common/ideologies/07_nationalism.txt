@@ -4,20 +4,9 @@ ideologies = {
 
 		types = {
 
-			nazism = {
+			nationalist = {
 			}
 
-			fascism = {
-			}
-
-			wilfism = {
-			}
-
-      stalinist = {
-			}
-
-      junta = {
-			}
 		}
 
 		dynamic_faction_names = {
