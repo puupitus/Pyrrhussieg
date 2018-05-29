@@ -3,13 +3,13 @@ state=
 	id=69
 	name="STATE_69"
 	manpower = 2830000
-	
+
 	state_category = town
-	
+
 	resources={
 		steel=4 # was: 8
 	}
-	
+
 	history={
 		owner = BOH
 		buildings = {
@@ -48,10 +48,7 @@ state=
 		}
 		add_core_of = BOH
 
-		1938.9.30 = {
-			owner = GER
-			controller = GER
-		}
+		 
 	}
 	provinces=
 	{

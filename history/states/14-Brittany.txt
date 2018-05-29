@@ -3,7 +3,7 @@ state={
 	id=14
 	name="STATE_14"
 	manpower = 2396600
-	
+
 	state_category = city
 
 	history={
@@ -34,14 +34,10 @@ state={
 			}
 		}
 		add_core_of = FRA
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-			}
-		}
+		
 	}
 
 	provinces={
-		542 3552 3758 6536 6548 6572 9495 9510 9525 11508 
+		542 3552 3758 6536 6548 6572 9495 9510 9525 11508
 	}
 }

@@ -3,7 +3,7 @@ state={
 	id=117
 	name="STATE_117" # Campania
 	manpower = 5333611
-	
+
 	state_category = city
 	resources={
 		aluminium=10 # was: 16
@@ -13,7 +13,7 @@ state={
 	history={
 		owner = MEZ
 		victory_points = {
-			819 20 
+			819 20
 		}
 		buildings = {
 			infrastructure = 6
@@ -25,15 +25,10 @@ state={
 			}
 		}
 		add_core_of = MEZ
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-				industrial_complex = 3
-			}
-		}
+		
 	}
 
 	provinces={
-		819 851 883 955 3958 3968 6843 6939 6972 6980 9826 11803 
+		819 851 883 955 3958 3968 6843 6939 6972 6980 9826 11803
 	}
 }

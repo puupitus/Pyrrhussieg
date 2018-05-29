@@ -2,13 +2,13 @@ state={
 	id=126
 	name="STATE_126"
 	manpower=9824296
-	
+
 	state_category = megalopolis
 
 	history={
 		owner = BRI
 		victory_points = {
-			6103 50 
+			6103 50
 		}
 		buildings = {
 			infrastructure = 9
@@ -23,15 +23,10 @@ state={
 			}
 		}
 		add_core_of = BRI
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 4
-				industrial_complex = 4
-			}
-		}
+		
 	}
 
 	provinces={
-		6103 9239 11333 11374 
+		6103 9239 11333 11374
 	}
 }
