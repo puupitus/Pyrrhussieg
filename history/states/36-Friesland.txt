@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = HOL
+		owner = NEL
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 2

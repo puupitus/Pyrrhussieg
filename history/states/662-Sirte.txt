@@ -7,11 +7,11 @@ state={
 	
 	
 	history={
-		owner = ITA
+		owner = MEZ
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = LBA
+		add_core_of = TRI
 	}
 	
 	provinces={
