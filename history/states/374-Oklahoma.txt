@@ -13,7 +13,7 @@ state={
 
 
 	history={
-		owner = USA
+		owner = USY
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
@@ -24,7 +24,7 @@ state={
 			1806 1
 		}
 
-		
+
 
 	}
 

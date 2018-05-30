@@ -9,7 +9,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = USA
+		owner = GAM
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
@@ -23,7 +23,7 @@ state={
 		victory_points = {
 			6890 10
 		}
-		
+
 
 	}
 

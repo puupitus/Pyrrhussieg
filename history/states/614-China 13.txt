@@ -7,14 +7,14 @@ state={
 	state_category = town
 
 	history={
-		owner = CHI
+		owner = MCA
 		add_core_of = CHI
 
 		buildings = {
 			infrastructure = 4
 		}
 
-		 
+
 	}
 
 	provinces={

@@ -6,7 +6,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = CAF
+		owner = WAF
 		buildings = {
 			infrastructure = 1
 

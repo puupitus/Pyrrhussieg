@@ -12,7 +12,7 @@ state={
 
 
 	history={
-		owner = USA
+		owner = GAM
 		buildings = {
 			infrastructure = 8
 			industrial_complex = 5
@@ -30,7 +30,7 @@ state={
 		victory_points = {
 			11800 15
 		}
-		
+
 
 	}
 

@@ -13,7 +13,7 @@ state={
 	state_category = city
 
 	history={
-		owner = SOV
+		owner = BUK
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 3
@@ -24,7 +24,7 @@ state={
 		}
 		add_core_of = SOV
 		#add_core_of = KAZ
-		 
+
 
 	}
 

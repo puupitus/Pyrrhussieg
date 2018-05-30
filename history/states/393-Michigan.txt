@@ -9,7 +9,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = USA
+		owner = USY
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1
@@ -21,7 +21,7 @@ state={
 		victory_points = {
 			6710 20
 		}
-		
+
 
 	}
 

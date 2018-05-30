@@ -7,7 +7,7 @@ state={
 	state_category = city
 
 	history={
-		owner = SOV
+		owner = RUS
 		victory_points = {
 			9417 15
 		}
@@ -21,7 +21,7 @@ state={
 			}
 		}
 		add_core_of = SOV
-		
+
 	}
 
 	provinces={
