@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = WGR
 		victory_points = { 678 5 }
 		victory_points = { 9503 5 }
 		victory_points = { 9559 10 }
@@ -50,7 +50,8 @@ state={
 
 		}
 		add_core_of = FRA
-		
+		add_core_of = GER
+
 	}
 
 	provinces={

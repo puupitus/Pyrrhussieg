@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = BOH
+		owner = SLO
 		victory_points = {
 			9692 10
 		}
@@ -22,7 +22,7 @@ state={
 		}
 		add_core_of = BOH
 
-		 
+
 	}
 
 	provinces={

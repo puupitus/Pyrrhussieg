@@ -2,12 +2,12 @@ state={
 	id=80
 	name="STATE_80"
 	manpower = 474600
-	
+
 	state_category = rural
 	
 	history=
 	{
-		owner = ROM
+		owner = POL
 		buildings = {
 			infrastructure = 6
 			arms_factory = 1

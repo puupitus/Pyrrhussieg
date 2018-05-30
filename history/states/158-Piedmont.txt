@@ -13,7 +13,7 @@ state={
 	}
 
 	history={
-		owner = MEZ
+		owner = SET
 		victory_points = {
 			6788 10
 		}
@@ -31,7 +31,7 @@ state={
 			}
 		}
 		add_core_of = MEZ
-		
+
 	}
 
 	provinces={

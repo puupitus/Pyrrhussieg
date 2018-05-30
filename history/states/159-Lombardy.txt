@@ -6,7 +6,7 @@ state={
 	state_category = metropolis
 
 	history={
-		owner = MEZ
+		owner = SET
 		victory_points = {
 			3780 15
 		}
@@ -18,7 +18,7 @@ state={
 
 		}
 		add_core_of = MEZ
-		
+
 	}
 
 	provinces={

@@ -11,7 +11,7 @@ state=
 	}
 
 	history={
-		owner = BOH
+		owner = AUS
 		buildings = {
 			infrastructure = 8
 			industrial_complex = 2
@@ -48,7 +48,7 @@ state=
 		}
 		add_core_of = BOH
 
-		 
+
 	}
 	provinces=
 	{
