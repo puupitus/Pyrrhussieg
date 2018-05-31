@@ -1,4 +1,4 @@
-capital = 446
+﻿capital = 446
 
 oob = "UAR_1936"
 

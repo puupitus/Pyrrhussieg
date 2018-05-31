@@ -1,4 +1,4 @@
-capital = 117
+﻿capital = 117
 
 oob = "MEZ_1936"
 

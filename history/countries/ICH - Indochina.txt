@@ -1,4 +1,4 @@
-capital = 671
+﻿capital = 671
 
 oob = "ICH_1936"
 

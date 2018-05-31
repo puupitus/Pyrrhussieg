@@ -1,4 +1,4 @@
-capital = 546
+﻿capital = 546
 
 oob = "CAF_1936"
 

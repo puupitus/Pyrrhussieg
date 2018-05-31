@@ -1,4 +1,4 @@
-capital = 49
+﻿capital = 49
 
 oob = "OTT_1936"
 

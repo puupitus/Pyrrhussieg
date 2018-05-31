@@ -1,4 +1,4 @@
-capital = 395
+﻿capital = 395
 
 oob = "USY_1936"
 

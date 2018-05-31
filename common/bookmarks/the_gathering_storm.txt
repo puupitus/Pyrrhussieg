@@ -9,7 +9,7 @@ bookmarks = {
 
 		"GER"={
 			history = "GER_PS_DESC"
-			ideology = nationalism
+			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
@@ -20,7 +20,7 @@ bookmarks = {
 		"FIN"={
 			minor = yes
 			history = "FIN_PS_DESC"
-			ideology = autocracy
+			ideology = conservatism
 			ideas = {	}
 			focuses = { }
 		}
