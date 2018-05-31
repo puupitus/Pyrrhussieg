@@ -1,10 +1,10 @@
 ideologies = {
 
-	syndicalism = {
+	socialism = {
 
 		types = {
 
-      syndicalist = {
+      socialism = {
       }
 
 		}
@@ -17,7 +17,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_5"
 		}
 
-		color = { 247 0 0 }
+		color = { 255 127 127 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0

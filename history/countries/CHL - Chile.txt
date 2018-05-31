@@ -1,6 +1,6 @@
-capital = 44
+capital = 279
 
-oob = "none"
+oob = "CHL_1936"
 
 ########## PUPPETS #################
 
@@ -28,42 +28,32 @@ set_technology = {
 }
 
 set_convoys = 50
-set_research_slots = 6
+set_research_slots = 3
 
 ########### POLITICS #############
 
 set_politics = {
 
 		parties = {
-			vanguardism = {
-				popularity = 20
-			}
 
 			syndicalism = {
-				popularity = 15
+				popularity = 25
 			}
 
-			social_democracy = {
-				popularity = 10
-			}
-
-			liberalism = {
-				popularity = 5
+			socialism = {
+				popularity = 25
 			}
 
 			conservatism = {
-				popularity = 5
-			}
-
-			autocracy = {
-				popularity = 40
+				popularity = 25
 			}
 
 			nationalism = {
-				popularity = 5
+				popularity = 25
 			}
+
 		}
-	ruling_party = autocracy
+	ruling_party = nationalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -72,14 +62,7 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-	name = ""
-	picture = ""
-	ideology = vanguardist
-	traits = { ps_default }
-}
-
-create_country_leader = {
-	name = ""
+  name = ""
 	picture = ""
 	ideology = syndicalist
 	traits = { ps_default }
@@ -88,14 +71,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = social_democrat
-	traits = { ps_default }
-}
-
-create_country_leader = {
-	name = ""
-	picture = ""
-	ideology = liberalist
+	ideology = socialist
 	traits = { ps_default }
 }
 
@@ -103,12 +79,6 @@ create_country_leader = {
 	name = ""
 	picture = ""
 	ideology = conservatistic
-	traits = { ps_default }
-}
-create_country_leader = {
-	name = ""
-	picture = ""
-	ideology = autocrat
 	traits = { ps_default }
 }
 

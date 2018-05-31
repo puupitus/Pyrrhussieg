@@ -5,6 +5,7 @@ ARG = { color = rgb { 80 177 222 } }
 AST = { color = rgb { 57 143 97 } }
 AUS	= { color = rgb { 194 198 215 } }
 BAL = { color = rgb { 165 165 165 } }
+BEL = { color = rgb { 193 171 8 } }
 BLR = { color = rgb { 229 192 192 } }
 BOH = { color = rgb { 54 167 156 } }
 BOL = { color = rgb { 255 180 136 } }
@@ -16,7 +17,7 @@ BUR = { color = rgb { 58 119 40 } }
 CAF = { color = rgb { 128 158 118 } }
 CAN = { color = rgb { 119 48 39 } }
 CEA = { color = rgb { 137 197 227 } }
-CHI = { color = rgb { 128 162 204 } }
+CHI = { color = rgb { 250 0 0 } }
 CHL = { color = rgb { 155 101 107 } }
 COL = { color = rgb { 222 187 91 } }
 CRO = { color = rgb { 66 49 153 } }
@@ -65,7 +66,6 @@ SER = { color = rgb { 0 56 147 } }
 SET = { color = rgb { 67 127 63 } }
 SIA = { color = rgb { 171 190 152 } }
 SOV = { color = rgb { 125 13 24 } }
-SPB = { color = rgb { 255 0 0 } }
 SPR = { color = rgb { 242 205 94 } }
 SWE	= { color = rgb { 36 132 247 } }
 SWI = { color = rgb { 200 5 5 } }

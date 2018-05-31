@@ -28,42 +28,32 @@ set_technology = {
 }
 
 set_convoys = 50
-set_research_slots = 6
+set_research_slots = 3
 
 ########### POLITICS #############
 
 set_politics = {
 
 		parties = {
-			vanguardism = {
-				popularity = 20
-			}
 
 			syndicalism = {
-				popularity = 15
+				popularity = 25
 			}
 
-			social_democracy = {
-				popularity = 10
-			}
-
-			liberalism = {
-				popularity = 5
+			socialism = {
+				popularity = 25
 			}
 
 			conservatism = {
-				popularity = 5
-			}
-
-			autocracy = {
-				popularity = 40
+				popularity = 25
 			}
 
 			nationalism = {
-				popularity = 5
+				popularity = 25
 			}
+
 		}
-	ruling_party = autocracy
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -74,41 +64,21 @@ set_politics = {
 create_country_leader = {
 	name = "Enver Hoxha"
 	picture = "enver_hoxha.dds"
-	ideology = vanguardist
-	traits = { ps_default }
-}
-
-create_country_leader = {
-	name = "Enver Hoxha"
-	picture = "enver_hoxha.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Enver Hoxha"
-	picture = "enver_hoxha.dds"
-	ideology = social_democrat
+	name = "Shefqet Vërlaci"
+	picture = "shefqet_verlaci.dds"
+	ideology = socialist
 	traits = { ps_default }
 }
 
-create_country_leader = {
-	name = "Shefqet Vërlaci"
-	picture = "shefqet_verlaci.dds"
-	ideology = liberalist
-	traits = { ps_default }
-}
-
-create_country_leader = {
-	name = "Shefqet Vërlaci"
-	picture = "shefqet_verlaci.dds"
-	ideology = conservatistic
-	traits = { ps_default }
-}
 create_country_leader = {
 	name = "Vidi I"
 	picture = "william_of_wied.dds"
-	ideology = autocrat
+	ideology = conservatistic
 	traits = { ps_default }
 }
 

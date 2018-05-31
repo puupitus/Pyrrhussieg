@@ -1,11 +1,11 @@
 ideologies = {
 
-	autocracy = {
+	syndicalism = {
 
 		types = {
 
-      autocrat = {
-      }
+      syndicalist = {
+			}
 
 		}
 
@@ -17,7 +17,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_5"
 		}
 
-		color = { 160 160 160 }
+		color = { 247 0 0 }
 
 		war_impact_on_world_tension = 1.0			#evil!
 		faction_impact_on_world_tension = 1.0
@@ -34,7 +34,7 @@ ideologies = {
 			join_faction_tension = 1.01
 		}
 
-	  ai_fascist = yes # uses the fascist AI behaviour
+	  ai_communist = yes # uses the commie AI behaviour
 
 		}
 
