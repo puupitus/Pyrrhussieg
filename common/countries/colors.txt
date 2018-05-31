@@ -40,7 +40,7 @@ IRA = { color = rgb { 35 159 64 } }
 JAP = { color = rgb { 255 224 207 } }
 KOR = { color = rgb { 0 71 160 } }
 MAG = { color = rgb { 172 95 112 } }
-MAL = { color = rgb { 226 122 120 } }
+MAL = { color = rgb { 252 209 22 } }
 MCA = { color = rgb { 255 197 0 } }
 MEX = { color = rgb { 104 152 83 } }
 MEZ = { color = rgb { 173 0 11 } }
@@ -59,7 +59,6 @@ PRU = { color = rgb { 235 16 35 } }
 ROM = { color = rgb { 215 196 72 } }
 RUS = { color = rgb { 71 113 97 } }
 SAF = { color = rgb { 152 130 191 } }
-SAR = { color = rgb { 252 209 22 } }
 SAU = { color = rgb { 0 122 61 } }
 SER = { color = rgb { 0 56 147 } }
 SET = { color = rgb { 67 127 63 } }
