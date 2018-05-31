@@ -23,7 +23,6 @@ COL = { color = rgb { 222 187 91 } }
 CRO = { color = rgb { 66 49 153 } }
 CUB = { color = rgb { 140 65 166 } }
 DEN = { color = rgb { 153 116 93 } }
-DOM = { color = rgb { 152 130 191 } }
 ECU = { color = rgb { 249 146 98 } }
 EIN = { color = rgb { 255 161 94 } }
 ETH = { color = rgb { 171 226 154 } }
