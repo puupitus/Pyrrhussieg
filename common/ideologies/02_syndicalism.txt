@@ -1,6 +1,7 @@
 ideologies = {
 
-	syndicalism = {
+
+syndicalism = {
 
 		types = {
 

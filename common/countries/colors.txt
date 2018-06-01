@@ -1,5 +1,6 @@
 AFG = { color = rgb { 0 31 0 } }
 ALB = { color = rgb { 153 0 0 } }
+ALI = { color = rgb { 255 204 0 } }
 ANG = { color = rgb { 204 9 47 } }
 ARG = { color = rgb { 80 177 222 } }
 AST = { color = rgb { 57 143 97 } }
@@ -47,7 +48,6 @@ NBL = { color = rgb { 57 113 228 } }
 NEL = { color = rgb { 255 178 102 } }
 NOR = { color = rgb { 111 71 71 } }
 NZL = { color = rgb { 152 130 191 } }
-OCC = { color = rgb { 233 234 192 } }
 OTT = { color = rgb { 178 114 99 } }
 PAR = { color = rgb { 57 113 228 } }
 PHI = { color = rgb { 97 120 165 } }
@@ -74,4 +74,3 @@ USA = { color = rgb { 20 133 237 } }
 USY = { color = rgb { 191 10 48 } }
 VEN = { color = rgb { 255 255 0 } }
 WAF = { color = rgb { 84 96 132 } }
-WGR = { color = rgb { 255 206 0 } }

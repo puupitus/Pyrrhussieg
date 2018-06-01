@@ -1,6 +1,6 @@
-﻿capital = 19
+capital = 736
 
-oob = "OCC_1936"
+oob = "ALI_1936"
 
 ########## PUPPETS #################
 
@@ -36,30 +36,41 @@ set_politics = {
 
 		parties = {
 
+			vanguardism = {
+  		popularity = 20
+			}
+
 			syndicalism = {
-				popularity = 25
+				popularity = 20
 			}
 
 			socialism = {
-				popularity = 25
+				popularity = 20
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 20
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 20
 			}
 
 		}
-	ruling_party = nationalism
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 ############ COUNTRY LEADERS #############
+
+create_country_leader = {
+	name = ""
+	picture = ""
+	ideology = vanguardist
+	traits = { ps_default }
+}
 
 create_country_leader = {
   name = ""
