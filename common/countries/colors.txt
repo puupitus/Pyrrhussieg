@@ -1,6 +1,5 @@
 AFG = { color = rgb { 0 31 0 } }
 ALB = { color = rgb { 153 0 0 } }
-ALI = { color = rgb { 255 204 0 } }
 ANG = { color = rgb { 204 9 47 } }
 ARG = { color = rgb { 80 177 222 } }
 AST = { color = rgb { 57 143 97 } }
@@ -21,9 +20,9 @@ CEA = { color = rgb { 137 197 227 } }
 CHI = { color = rgb { 250 0 0 } }
 CHL = { color = rgb { 155 101 107 } }
 COL = { color = rgb { 222 187 91 } }
-CRO = { color = rgb { 66 49 153 } }
+CRO = { color = rgb { 36 132 247 } }
 CUB = { color = rgb { 140 65 166 } }
-DEN = { color = rgb { 153 116 93 } }
+DEN = { color = rgb { 220 0 0 } }
 ECU = { color = rgb { 249 146 98 } }
 EIN = { color = rgb { 255 161 94 } }
 ETH = { color = rgb { 171 226 154 } }
@@ -46,8 +45,9 @@ MEX = { color = rgb { 104 152 83 } }
 MEZ = { color = rgb { 173 0 11 } }
 NBL = { color = rgb { 57 113 228 } }
 NEL = { color = rgb { 255 178 102 } }
-NOR = { color = rgb { 111 71 71 } }
+NOR = { color = rgb { 66 49 153 } }
 NZL = { color = rgb { 152 130 191 } }
+OCC = { color = rgb { 188 100 18 } }
 OTT = { color = rgb { 178 114 99 } }
 PAR = { color = rgb { 57 113 228 } }
 PHI = { color = rgb { 97 120 165 } }
@@ -64,7 +64,7 @@ SET = { color = rgb { 67 127 63 } }
 SIA = { color = rgb { 171 190 152 } }
 SOV = { color = rgb { 125 13 24 } }
 SPR = { color = rgb { 242 205 94 } }
-SWE	= { color = rgb { 36 132 247 } }
+SWE	= { color = rgb { 255 204 0 } }
 SWI = { color = rgb { 200 5 5 } }
 TAN = { color = rgb { 188 83  98 } }
 TCS = { color = rgb { 153 0 0 } }

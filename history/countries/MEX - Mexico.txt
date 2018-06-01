@@ -37,10 +37,10 @@ set_politics = {
 		parties = {
 
 			vanguardism = {
-  popularity = 20
-}
+  		popularity = 20
+			}
 
-syndicalism = {
+			syndicalism = {
 				popularity = 20
 			}
 
@@ -57,7 +57,7 @@ syndicalism = {
 			}
 
 		}
-	ruling_party = conservatism
+	ruling_party = syndicalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

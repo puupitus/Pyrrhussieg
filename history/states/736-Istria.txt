@@ -5,7 +5,7 @@ state={
 	state_category = city
 
 	history={
-		owner = ALI
+		owner = CRO
 		add_core_of = MEZ
 		add_core_of = SER
 		buildings = {

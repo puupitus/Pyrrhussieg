@@ -1,6 +1,6 @@
-﻿capital = 736
+capital = 19
 
-oob = "ALI_1936"
+oob = "OCC_1936"
 
 ########## PUPPETS #################
 
@@ -57,7 +57,7 @@ set_politics = {
 			}
 
 		}
-	ruling_party = conservatism
+	ruling_party = nationalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
