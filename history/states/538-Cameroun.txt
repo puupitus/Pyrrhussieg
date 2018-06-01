@@ -9,11 +9,11 @@ state={
 		rubber=5 # was: 5
 	}
 	history={
-		owner = BEL
+		owner = CAF
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = KON
+		add_core_of = CAF
 	}
 
 	provinces={
