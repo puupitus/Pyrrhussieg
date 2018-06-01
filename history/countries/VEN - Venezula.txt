@@ -37,10 +37,10 @@ set_politics = {
 		parties = {
 
 			vanguardism = {
-  popularity = 20
-}
+  		popularity = 20
+			}
 
-syndicalism = {
+			syndicalism = {
 				popularity = 20
 			}
 

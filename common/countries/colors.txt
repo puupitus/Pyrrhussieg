@@ -1,6 +1,5 @@
 AFG = { color = rgb { 0 31 0 } }
 ALB = { color = rgb { 153 0 0 } }
-ANG = { color = rgb { 204 9 47 } }
 ARG = { color = rgb { 80 177 222 } }
 AST = { color = rgb { 57 143 97 } }
 AUS	= { color = rgb { 194 198 215 } }
