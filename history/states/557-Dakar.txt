@@ -8,7 +8,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = WAF
+		owner = MAG
 		buildings = {
 			infrastructure = 0
 		}

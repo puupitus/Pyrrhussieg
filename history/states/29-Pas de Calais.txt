@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = FRA
+		owner = BEL
 		victory_points = {
 			575 5
 		}
@@ -30,7 +30,7 @@ state={
 			}
 		}
 		add_core_of = FRA
-		
+
 	}
 
 	provinces={

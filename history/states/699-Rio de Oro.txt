@@ -6,7 +6,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = WAF
+		owner = MAG
 		buildings = {
 			infrastructure = 1
 			8038 = {

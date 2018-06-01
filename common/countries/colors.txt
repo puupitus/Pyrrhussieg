@@ -66,6 +66,7 @@ SOV = { color = rgb { 125 13 24 } }
 SPR = { color = rgb { 242 205 94 } }
 SWE	= { color = rgb { 36 132 247 } }
 SWI = { color = rgb { 200 5 5 } }
+TAN = { color = rgb { 188 83  98 } }
 TCS = { color = rgb { 153 0 0 } }
 UAR = { color = rgb { 158 132 132 } }
 UKR = { color = rgb { 58 118 197 } }
