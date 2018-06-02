@@ -1,7 +1,7 @@
 ﻿capital = 12
 
 oob = "BAL_1936"
-
+set_cosmetic_tag = BAL_schutzgebiet
 ########## PUPPETS #################
 
 

@@ -2,6 +2,7 @@
 
 oob = "BEL_1936"
 
+set_cosmetic_tag = BEL_schutzgebiet
 ########## PUPPETS #################
 
 
@@ -57,7 +58,7 @@ set_politics = {
 			}
 
 		}
-	ruling_party = nationalism
+	ruling_party = conservatism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no

@@ -37,7 +37,7 @@ IND = { color = rgb { 170 10 10 } }
 IRA = { color = rgb { 35 159 64 } }
 JAP = { color = rgb { 255 224 207 } }
 KOR = { color = rgb { 0 71 160 } }
-MAG = { color = rgb { 172 95 112 } }
+MAG = { color = rgb { 221 210 157 } }
 MAL = { color = rgb { 252 209 22 } }
 MCA = { color = rgb { 255 197 0 } }
 MEX = { color = rgb { 104 152 83 } }

@@ -461,8 +461,8 @@
  GAM_conservatism_DEF:0 "The German American Bund"
  GAM_conservatism:0 "German American Bund"
  GAM_nationalism_ADJ:0 "German-American"
- GAM_nationalism_DEF:0 "The German American Bund"
- GAM_nationalism:0 "German American Bund"
+ GAM_nationalism_DEF:0 "The Amerikadeutscher Volksbund"
+ GAM_nationalism:0 "Amerikadeutscher Volksbund"
  #####################################################################################
  GER_vanguardism_ADJ:0 "German"
  GER_vanguardism_DEF:0 "The Deutsches Reich"
