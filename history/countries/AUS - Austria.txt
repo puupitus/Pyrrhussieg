@@ -37,19 +37,19 @@ set_politics = {
 		parties = {
 
 			syndicalism = {
-				popularity = 25
+				popularity = 5
 			}
 
 			socialism = {
-				popularity = 25
+				popularity = 20
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 7
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 68
 			}
 
 		}
@@ -64,29 +64,29 @@ set_politics = {
 
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Johann Koplenig"
+	picture = "johann_koplenig.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Karl Renner"
+	picture = "karl_renner.dds"
 	ideology = socialist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Otto Ender"
+	picture = "otto_ender.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Engelbert Dollfuß"
+	picture = "engelbert_dollfuss.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

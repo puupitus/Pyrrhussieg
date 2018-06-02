@@ -1,7 +1,8 @@
 ﻿capital = 195
 
 oob = "SOV_1936"
-
+set_major = yes
+create_faction = "Profintern"
 ########## PUPPETS #################
 
 
@@ -36,7 +37,7 @@ set_politics = {
 
 		parties = {
 
-	 
+
 
 			syndicalism = {
 				popularity = 25
@@ -62,7 +63,7 @@ set_politics = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 
 create_country_leader = {
   name = ""

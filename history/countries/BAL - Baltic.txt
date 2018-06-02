@@ -38,19 +38,19 @@ set_politics = {
 
 
 			syndicalism = {
-				popularity = 25
+				popularity = 7
 			}
 
 			socialism = {
-				popularity = 25
+				popularity = 23
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 59
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 11
 			}
 
 		}
@@ -64,29 +64,29 @@ set_politics = {
 
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Pēteris Stučka"
+	picture = "peteris_stucka.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Pauls Kalniņš"
+	picture = "pauls_kalnins.dds"
 	ideology = socialist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Adolf Friedrich of Mecklenburg"
+	picture = "adolf_friedrich.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Artur Sirk"
+	picture = "artur_sirk.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

@@ -38,19 +38,19 @@ set_politics = {
 
 
 			syndicalism = {
-				popularity = 25
+				popularity = 14
 			}
 
 			socialism = {
-				popularity = 25
+				popularity = 31
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 38
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 17
 			}
 
 		}
@@ -64,29 +64,29 @@ set_politics = {
 
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Adela Pankhurst"
+	picture = "adela_pankhurst.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "James Scullin"
+	picture = "james_scullin.dds"
 	ideology = socialist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Stanley Bruce"
+	picture = "stanley_bruce.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Eric Campbell"
+	picture = "eric_campbell.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }
