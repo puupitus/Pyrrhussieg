@@ -36,16 +36,13 @@ set_politics = {
 
 		parties = {
 
-			vanguardism = {
-  			popularity = 20
-			}
 
 			syndicalism = {
-				popularity = 20
+				popularity = 23
 			}
 
 			socialism = {
-				popularity = 20
+				popularity = 30
 			}
 
 			conservatism = {
@@ -53,11 +50,11 @@ set_politics = {
 			}
 
 			nationalism = {
-				popularity = 20
+				popularity = 27
 			}
 
 		}
-	ruling_party = conservatism
+	ruling_party = socialism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -65,37 +62,31 @@ set_politics = {
 
 ############ COUNTRY LEADERS #############
 
-create_country_leader = {
-	name = ""
-	picture = ""
-	ideology = vanguardist
-	traits = { ps_default }
-}
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Fanny Edelman"
+	picture = "fanny_edelman.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Hipólito Yrigoyen"
+	picture = "hipolito_yrigoyen.dds"
 	ideology = socialist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Agustín Pedro Justo"
+	picture = "agustin_pedro_justo.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "José Félix Uriburu"
+	picture = "jose_felix_uriburu.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

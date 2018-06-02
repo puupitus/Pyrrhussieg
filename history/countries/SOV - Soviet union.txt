@@ -36,41 +36,33 @@ set_politics = {
 
 		parties = {
 
-			vanguardism = {
-  		popularity = 20
-			}
+	 
 
 			syndicalism = {
-				popularity = 20
+				popularity = 25
 			}
 
 			socialism = {
-				popularity = 20
+				popularity = 25
 			}
 
 			conservatism = {
-				popularity = 20
+				popularity = 25
 			}
 
 			nationalism = {
-				popularity = 20
+				popularity = 25
 			}
 
 		}
-	ruling_party = vanguardism
+	ruling_party = syndicalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 ############ COUNTRY LEADERS #############
-
-create_country_leader = {
-	name = ""
-	picture = ""
-	ideology = vanguardist
-	traits = { ps_default }
-}
+ 
 
 create_country_leader = {
   name = ""

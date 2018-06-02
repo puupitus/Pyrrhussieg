@@ -36,24 +36,20 @@ set_politics = {
 
 		parties = {
 
-			vanguardism = {
-  			popularity = 20
-			}
-
 			syndicalism = {
-				popularity = 20
+				popularity = 0
 			}
 
 			socialism = {
-				popularity = 20
+				popularity = 22
 			}
 
 			conservatism = {
-				popularity = 20
+				popularity = 78
 			}
 
 			nationalism = {
-				popularity = 20
+				popularity = 0
 			}
 
 		}
@@ -65,37 +61,31 @@ set_politics = {
 
 ############ COUNTRY LEADERS #############
 
-create_country_leader = {
-	name = ""
-	picture = ""
-	ideology = vanguardist
-	traits = { ps_default }
-}
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Mahmud Tarzi"
+	picture = "mahmud_tarzi.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Mahmud Tarzi"
+	picture = "mahmud_tarzi.dds"
 	ideology = socialist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Amanullah I"
+	picture = "amanullah_i.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Amanullah I"
+	picture = "amanullah_i.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

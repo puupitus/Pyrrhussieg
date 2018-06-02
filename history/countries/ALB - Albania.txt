@@ -36,24 +36,20 @@ set_politics = {
 
 		parties = {
 
-			vanguardism = {
-  		popularity = 20
-			}
-
 			syndicalism = {
-				popularity = 20
+				popularity = 35
 			}
 
 			socialism = {
-				popularity = 20
+				popularity = 0
 			}
 
 			conservatism = {
-				popularity = 20
+				popularity = 23
 			}
 
 			nationalism = {
-				popularity = 20
+				popularity = 42
 			}
 
 		}
@@ -65,12 +61,6 @@ set_politics = {
 
 ############ COUNTRY LEADERS #############
 
-create_country_leader = {
-	name = ""
-	picture = ""
-	ideology = vanguardist
-	traits = { ps_default }
-}
 
 create_country_leader = {
 	name = "Enver Hoxha"
@@ -87,8 +77,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Vidi I"
-	picture = "william_of_wied.dds"
+	name = "Ahmet Zogu"
+	picture = "ahmet_zogu.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
