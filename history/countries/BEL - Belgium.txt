@@ -38,19 +38,19 @@ set_politics = {
 		parties = {
 
 			syndicalism = {
-				popularity = 25
+				popularity = 12
 			}
 
 			socialism = {
-				popularity = 25
+				popularity = 7
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 31
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 50
 			}
 
 		}
@@ -64,29 +64,29 @@ set_politics = {
 
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "André Renard"
+	picture = "andre_renard.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Emile Vandervelde"
+	picture = "emile_vandervelde.dds"
 	ideology = socialist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Hubert Pierlot"
+	picture = "hubert_pierlot.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Léon Degrelle"
+	picture = "leon_degrelle.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }
