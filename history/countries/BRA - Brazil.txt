@@ -37,19 +37,19 @@ set_politics = {
 		parties = {
 
 			syndicalism = {
-				popularity = 25
+				popularity = 22
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 28
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 19
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 31
 			}
 
 		}
@@ -62,29 +62,29 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Miguel Reale"
+	picture = "miguel_reale.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Getúlio Vargas"
+	picture = "getulio_vargas.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Washington Luís"
+	picture = "washington_luis.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Plínio Salgado"
+	picture = "plinio_salgado.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

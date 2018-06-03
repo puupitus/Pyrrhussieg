@@ -35,21 +35,21 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 			syndicalism = {
-				popularity = 25
+				popularity = 26
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 7
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 31
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 36
 			}
 
 		}
@@ -60,31 +60,31 @@ set_politics = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Walter Citrine"
+	picture = "walter_citrine.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Ramsay MacDonald"
+	picture = "ramsay_macdonald.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Stanley Baldwin"
+	picture = "stanley_baldwin.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Arnold Leese"
+	picture = "arnold_leese.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

@@ -35,8 +35,8 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
-syndicalism = {
+
+			syndicalism = {
 				popularity = 25
 			}
 
@@ -60,7 +60,7 @@ syndicalism = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
   name = ""
 	picture = ""

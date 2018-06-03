@@ -37,19 +37,19 @@ set_politics = {
 		parties = {
 
 			syndicalism = {
-				popularity = 25
+				popularity = 51
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 32
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 12
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 5
 			}
 
 		}
@@ -62,29 +62,29 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Juan Lechín Oquendo"
+	picture = "juan_lechin_oquendo.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "José Luis Tejada Sorzano"
+	picture = "jose_luis_tejada_sorzano.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Hernando Siles Reyes"
+	picture = "hernando_siles_reyes.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Germán Busch"
+	picture = "german_busch.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

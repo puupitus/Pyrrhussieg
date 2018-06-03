@@ -3,12 +3,7 @@
 oob = "SOV_1936"
 set_major = yes
 create_faction = "Profintern"
-puppet = BLR
-BLR = {
-	set_politics = {
-		ruling_party = syndicalism
-		}
-}
+
 ########## PUPPETS #################
 
 

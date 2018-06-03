@@ -35,8 +35,8 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
-syndicalism = {
+
+		syndicalism = {
 				popularity = 25
 			}
 
@@ -53,14 +53,14 @@ syndicalism = {
 			}
 
 		}
-	ruling_party = conservatism
+	ruling_party = radicalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
   name = ""
 	picture = ""
