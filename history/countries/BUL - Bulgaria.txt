@@ -35,21 +35,21 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 			syndicalism = {
-				popularity = 25
+				popularity = 28
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 12
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 36
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 24
 			}
 
 		}
@@ -60,31 +60,31 @@ set_politics = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Vasil Kolarov"
+	picture = "vasil_kolarov.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Nikola Mushanov"
+	picture = "nikola_mushanov.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Kimon Georgiev"
+	picture = "kimon_georgiev.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Hristo Lukov"
+	picture = "hristo_lukov.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

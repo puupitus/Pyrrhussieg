@@ -35,21 +35,21 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 syndicalism = {
-				popularity = 25
+				popularity = 32
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 38
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 14
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 16
 			}
 
 		}
@@ -60,31 +60,31 @@ syndicalism = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Aung San"
+	picture = "aung_san.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "U Nu"
+	picture = "u_nu.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Charles Alexander Innes"
+	picture = "charles_alexander_innes.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Ba Maw"
+	picture = "ba_maw.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

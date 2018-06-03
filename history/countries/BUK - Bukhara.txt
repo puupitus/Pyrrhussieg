@@ -35,21 +35,21 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 			syndicalism = {
-				popularity = 25
+				popularity = 40
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 0
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 60
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 0
 			}
 
 		}
@@ -60,31 +60,31 @@ set_politics = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Fayzulla Khodzhayev"
+	picture = "fayzulla_khodzhayev.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Fayzulla Khodzhayev"
+	picture = "fayzulla_khodzhayev.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Mohammed Alim Khan"
+	picture = "mohammed_alim_khan.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Fayzulla Khodzhayev"
+	picture = "fayzulla_khodzhayev.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }
