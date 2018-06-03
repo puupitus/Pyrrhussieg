@@ -37,19 +37,19 @@ set_politics = {
 		parties = {
 
 			syndicalism = {
-				popularity = 25
+				popularity = 47
 			}
 
 			socialism = {
-				popularity = 25
+				popularity = 17
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 8
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 28
 			}
 
 		}
@@ -62,29 +62,29 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Vincas Mickevičius-Kapsukas"
+	picture = "vincas_mickevicius_kapsukas.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Felicija Bortkevičienė"
+	picture = "felicija_bortkeviciene.dds"
 	ideology = socialist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Aleksandras Stulginskis"
+	picture = "aleksandras_stulginskis.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Augustinas Voldemaras"
+	picture = "augustinas_voldemaras.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }
