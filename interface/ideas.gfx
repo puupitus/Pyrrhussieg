@@ -252,8 +252,8 @@ spriteTypes = {
 	}	
 	
 	spriteType = {
-		name = "GFX_idea_socialist_science_focus"
-		texturefile = "gfx/interface/ideas/socialist_science_focus.dds"
+		name = "GFX_idea_radicalist_science_focus"
+		texturefile = "gfx/interface/ideas/radicalist_science_focus.dds"
 	}	
 	
 	spriteType = {

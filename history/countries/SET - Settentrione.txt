@@ -41,7 +41,7 @@ syndicalism = {
 				popularity = 25
 			}
 
-			socialism = {
+			radicalism = {
 				popularity = 25
 			}
 
@@ -73,7 +73,7 @@ create_country_leader = {
 create_country_leader = {
 	name = ""
 	picture = ""
-	ideology = socialist
+	ideology = radicalist
 	traits = { ps_default }
 }
 

@@ -41,7 +41,7 @@ set_politics = {
 				popularity = 12
 			}
 
-			socialism = {
+			radicalism = {
 				popularity = 7
 			}
 
@@ -73,7 +73,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Emile Vandervelde"
 	picture = "emile_vandervelde.dds"
-	ideology = socialist
+	ideology = radicalist
 	traits = { ps_default }
 }
 

@@ -41,7 +41,7 @@ set_politics = {
 				popularity = 7
 			}
 
-			socialism = {
+			radicalism = {
 				popularity = 23
 			}
 
@@ -73,7 +73,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Pauls Kalniņš"
 	picture = "pauls_kalnins.dds"
-	ideology = socialist
+	ideology = radicalist
 	traits = { ps_default }
 }
 

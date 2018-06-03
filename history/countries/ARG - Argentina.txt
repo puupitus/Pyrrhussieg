@@ -41,7 +41,7 @@ set_politics = {
 				popularity = 23
 			}
 
-			socialism = {
+			radicalism = {
 				popularity = 30
 			}
 
@@ -54,7 +54,7 @@ set_politics = {
 			}
 
 		}
-	ruling_party = socialism
+	ruling_party = radicalism
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -73,7 +73,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Hipólito Yrigoyen"
 	picture = "hipolito_yrigoyen.dds"
-	ideology = socialist
+	ideology = radicalist
 	traits = { ps_default }
 }
 

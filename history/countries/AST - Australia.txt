@@ -41,7 +41,7 @@ set_politics = {
 				popularity = 14
 			}
 
-			socialism = {
+			radicalism = {
 				popularity = 31
 			}
 
@@ -73,7 +73,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "James Scullin"
 	picture = "james_scullin.dds"
-	ideology = socialist
+	ideology = radicalist
 	traits = { ps_default }
 }
 

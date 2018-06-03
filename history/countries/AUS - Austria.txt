@@ -40,7 +40,7 @@ set_politics = {
 				popularity = 5
 			}
 
-			socialism = {
+			radicalism = {
 				popularity = 20
 			}
 
@@ -73,7 +73,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Karl Renner"
 	picture = "karl_renner.dds"
-	ideology = socialist
+	ideology = radicalist
 	traits = { ps_default }
 }
 

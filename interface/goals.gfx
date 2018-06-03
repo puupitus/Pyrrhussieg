@@ -140,8 +140,8 @@ spriteTypes = {
 	}	
 	
 	SpriteType = {
-	name = "GFX_focus_generic_socialist_science"
-	texturefile = "gfx/interface/goals/focus_generic_socialist_science.dds"			
+	name = "GFX_focus_generic_radicalist_science"
+	texturefile = "gfx/interface/goals/focus_generic_radicalist_science.dds"			
 	}	
 	
 	SpriteType = {
@@ -1192,8 +1192,8 @@ spriteTypes = {
 	}
 	
 	SpriteType = { 
-		name = "GFX_focus_prc_agrarian_socialism"
-		texturefile = "gfx/interface/goals/focus_prc_agrarian_socialism.dds"
+		name = "GFX_focus_prc_agrarian_radicalism"
+		texturefile = "gfx/interface/goals/focus_prc_agrarian_radicalism.dds"
 	}
 	
 	SpriteType = { 

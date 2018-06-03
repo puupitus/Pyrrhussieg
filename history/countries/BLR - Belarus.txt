@@ -40,7 +40,7 @@ set_politics = {
 				popularity = 47
 			}
 
-			socialism = {
+			radicalism = {
 				popularity = 17
 			}
 
@@ -71,7 +71,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Felicija Bortkevičienė"
 	picture = "felicija_bortkeviciene.dds"
-	ideology = socialist
+	ideology = radicalist
 	traits = { ps_default }
 }
 
