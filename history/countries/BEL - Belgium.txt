@@ -2,7 +2,7 @@
 
 oob = "BEL_1936"
 
-set_cosmetic_tag = BEL_schutzgebiet
+
 ########## PUPPETS #################
 
 

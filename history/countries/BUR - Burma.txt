@@ -36,7 +36,7 @@ set_politics = {
 
 		parties = {
 
-syndicalism = {
+			syndicalism = {
 				popularity = 32
 			}
 

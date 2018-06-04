@@ -1,4 +1,4 @@
-capital = 28
+﻿capital = 28
 
 oob = "ELO_1936"
 

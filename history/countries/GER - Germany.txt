@@ -1,9 +1,74 @@
 ﻿capital = 64
 
 oob = "GER_1936"
-
+set_major = yes
 ########## PUPPETS #################
+set_autonomy = {
+	target = BEL
+	autonomous_state = autonomy_puppet
+}
+BEL = {
+set_politics = {
 
+		parties = {
+
+			syndicalism = {
+				popularity = 12
+			}
+
+			radicalism = {
+				popularity = 7
+			}
+
+			conservatism = {
+				popularity = 31
+			}
+
+			nationalism = {
+				popularity = 50
+			}
+
+		}
+	ruling_party = conservatism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+}
+BEL = { set_cosmetic_tag = BEL_schutzgebiet }
+set_autonomy = {
+	target = BAL
+	autonomous_state = autonomy_puppet
+}
+BAL = {
+set_politics = {
+
+		parties = {
+
+		syndicalism = {
+			popularity = 7
+		}
+
+		radicalism = {
+			popularity = 23
+		}
+
+		conservatism = {
+			popularity = 42
+		}
+
+		nationalism = {
+			popularity = 28
+		}
+
+		}
+	ruling_party = conservatism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+}
+BAL = { set_cosmetic_tag = BAL_schutzgebiet }
 
 ########## STARTING TECH ###########
 
@@ -35,7 +100,7 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 syndicalism = {
 				popularity = 25
 			}
@@ -61,7 +126,7 @@ syndicalism = {
 
 ############ COUNTRY LEADERS #############
 
- 
+
 create_country_leader = {
   name = ""
 	picture = ""

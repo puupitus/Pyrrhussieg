@@ -1,10 +1,73 @@
 ﻿capital = 126
 
 oob = "BRI_1936"
-
+set_major = yes
 ########## PUPPETS #################
+set_autonomy = {
+	target = AST
+	autonomous_state = autonomy_dominion
+}
+AST = {
+set_politics = {
+
+		parties = {
 
 
+			syndicalism = {
+				popularity = 14
+			}
+
+			radicalism = {
+				popularity = 31
+			}
+
+			conservatism = {
+				popularity = 38
+			}
+
+			nationalism = {
+				popularity = 17
+			}
+
+		}
+	ruling_party = conservatism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+}
+set_autonomy = {
+	target = BUR
+	autonomous_state = autonomy_colony
+}
+BUR = {
+set_politics = {
+
+		parties = {
+
+			syndicalism = {
+				popularity = 32
+			}
+
+			radicalism = {
+				popularity = 38
+			}
+
+			conservatism = {
+				popularity = 14
+			}
+
+			nationalism = {
+				popularity = 16
+			}
+
+		}
+	ruling_party = conservatism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+}
 ########## STARTING TECH ###########
 
 set_technology = {

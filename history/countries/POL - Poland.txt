@@ -1,7 +1,8 @@
 ﻿capital = 91
 
 oob = "POL_1936"
-
+create_faction = "LSI"
+add_to_faction = BOH
 ########## PUPPETS #################
 
 
@@ -35,7 +36,7 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
+
 syndicalism = {
 				popularity = 25
 			}
@@ -61,7 +62,7 @@ syndicalism = {
 
 ############ COUNTRY LEADERS #############
 
- 
+
 
 create_country_leader = {
   name = ""
