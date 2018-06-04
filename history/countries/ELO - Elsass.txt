@@ -1,6 +1,6 @@
-﻿capital = 546
+capital = 28
 
-oob = "CAF_1936"
+oob = "ELO_1936"
 
 ########## PUPPETS #################
 
@@ -37,19 +37,19 @@ set_politics = {
 		parties = {
 
 syndicalism = {
-				popularity = 0
+				popularity = 25
 			}
 
 			radicalism = {
-				popularity = 0
+				popularity = 25
 			}
 
 			conservatism = {
-				popularity = 100
+				popularity = 25
 			}
 
 			nationalism = {
-				popularity = 0
+				popularity = 25
 			}
 
 		}
@@ -62,29 +62,29 @@ syndicalism = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = "Paul von Lettow-Vorbeck"
-	picture = "paul_von_lettow_vorbeck.dds"
+  name = ""
+	picture = ""
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Paul von Lettow-Vorbeck"
-	picture = "paul_von_lettow_vorbeck.dds"
+	name = ""
+	picture = ""
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Paul von Lettow-Vorbeck"
-	picture = "paul_von_lettow_vorbeck.dds"
+	name = ""
+	picture = ""
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Paul von Lettow-Vorbeck"
-	picture = "paul_von_lettow_vorbeck.dds"
+	name = ""
+	picture = ""
 	ideology = nationalist
 	traits = { ps_default }
 }

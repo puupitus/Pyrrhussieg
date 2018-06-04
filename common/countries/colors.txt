@@ -4,6 +4,7 @@ ARG = { color = rgb { 80 177 222 } }
 AST = { color = rgb { 57 143 97 } }
 AUS	= { color = rgb { 194 198 215 } }
 BAL = { color = rgb { 165 165 165 } }
+BAV = { color = rgb { 0 153 213 } }
 BEL = { color = rgb { 193 171 8 } }
 BLR = { color = rgb { 229 192 192 } }
 BOH = { color = rgb { 54 167 156 } }
@@ -23,7 +24,8 @@ CRO = { color = rgb { 36 132 247 } }
 CUB = { color = rgb { 140 65 166 } }
 DEN = { color = rgb { 220 0 0 } }
 ECU = { color = rgb { 249 146 98 } }
-EIN = { color = rgb { 255 161 94 } }
+EIN = { color = rgb { 4 84 4 } }
+ELO = { color = rgb { 237 28 36 } }
 ETH = { color = rgb { 171 226 154 } }
 FIN = { color = rgb { 205 212 228 } }
 FRA	= { color = rgb { 201 56 93 } }
