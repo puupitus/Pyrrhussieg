@@ -70,6 +70,15 @@
  BAL_nationalism_party:0 "PK"
  BAL_nationalism_party_long:0 "Pērkonkrusts"
  #################################
+ BAV_syndicalism_party:0 "KPD"
+ BAV_syndicalism_party_long:0 "Kommunistische Partei Deutschlands"
+ BAV_radicalism_party:0 "SPD"
+ BAV_radicalism_party_long:0 "Sozialdemokratische Partei Deutschlands"
+ BAV_conservatism_party:0 "BVP"
+ BAV_conservatism_party_long:0 "Bayerische Volkspartei"
+ BAV_nationalism_party:0 "NSDAP"
+ BAV_nationalism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
+ #################################
  BEL_syndicalism_party:0 "FGTB"
  BEL_syndicalism_party_long:0 "Fédération générale du travail de Belgique"
  BEL_radicalism_party:0 "POB"

@@ -62,29 +62,29 @@ syndicalism = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Eugen Leviné"
+	picture = "eugen_levine.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Otto Wels"
+	picture = "otto_wels.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Gustav Ritter von Kahr"
+	picture = "gustav_ritter_von_kahr.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Adolf Hitler"
+	picture = "adolf_hitler.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }
