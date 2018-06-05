@@ -1,6 +1,6 @@
-﻿capital = 52
+﻿capital = 65
 
-oob = "BAV_1936"
+oob = "SAX_1936"
 
 ########## PUPPETS #################
 
@@ -36,20 +36,20 @@ set_politics = {
 
 		parties = {
 
-			syndicalism = {
-				popularity = 8
+      syndicalism = {
+				popularity = 25
 			}
 
 			radicalism = {
-				popularity = 17
+				popularity = 25
 			}
 
 			conservatism = {
-				popularity = 42
+				popularity = 25
 			}
 
 			nationalism = {
-				popularity = 33
+				popularity = 25
 			}
 
 		}
@@ -62,29 +62,29 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = "Eugen Leviné"
-	picture = "eugen_levine.dds"
+  name = ""
+	picture = ""
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Otto Wels"
-	picture = "otto_wels.dds"
+	name = ""
+	picture = ""
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Gustav Ritter von Kahr"
-	picture = "gustav_ritter_von_kahr.dds"
+	name = ""
+	picture = ""
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = "Adolf Hitler"
-	picture = "adolf_hitler.dds"
+	name = ""
+	picture = ""
 	ideology = nationalist
 	traits = { ps_default }
 }

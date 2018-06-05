@@ -48,7 +48,6 @@ NBL = { color = rgb { 57 113 228 } }
 NEL = { color = rgb { 255 178 102 } }
 NOR = { color = rgb { 84 96 132 } }
 NZL = { color = rgb { 152 130 191 } }
-OCC = { color = rgb { 188 100 18 } }
 OTT = { color = rgb { 178 114 99 } }
 PAR = { color = rgb { 57 113 228 } }
 PHI = { color = rgb { 97 120 165 } }
@@ -60,6 +59,7 @@ ROM = { color = rgb { 215 196 72 } }
 RUS = { color = rgb { 71 113 97 } }
 SAF = { color = rgb { 152 130 191 } }
 SAU = { color = rgb { 0 122 61 } }
+SAX = { color = rgb { 0 153 0 } }
 SER = { color = rgb { 0 56 147 } }
 SET = { color = rgb { 67 127 63 } }
 SIA = { color = rgb { 41 37 73 } }
@@ -76,3 +76,4 @@ USA = { color = rgb { 0 35 104 } }
 USY = { color = rgb { 191 10 48 } }
 VEN = { color = rgb { 255 255 0 } }
 WAF = { color = rgb { 66 49 153 } }
+WUR = { color = rgb { 189 18 32 } }

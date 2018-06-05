@@ -69,7 +69,38 @@ set_politics = {
 }
 }
 BAL = { set_cosmetic_tag = BAL_schutzgebiet }
+set_autonomy = {
+	target = BAV
+	autonomous_state = autonomy_puppet
+}
+BAV = {
+set_politics = {
 
+		parties = {
+
+			syndicalism = {
+				popularity = 8
+			}
+
+			radicalism = {
+				popularity = 17
+			}
+
+			conservatism = {
+				popularity = 42
+			}
+
+			nationalism = {
+				popularity = 33
+			}
+
+		}
+	ruling_party = conservatism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+}
 ########## STARTING TECH ###########
 
 set_technology = {

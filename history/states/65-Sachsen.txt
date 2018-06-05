@@ -11,7 +11,7 @@ state={
 
 
 	history={
-		owner = GER
+		owner = SAX
 		buildings = {
 			infrastructure = 7
 			arms_factory = 2
@@ -24,7 +24,7 @@ state={
 			3535 5
 		}
 		add_core_of = GER
-		 
+
 	}
 
 	provinces={
