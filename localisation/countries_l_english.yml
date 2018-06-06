@@ -716,8 +716,8 @@
  POR_nationalism:0 "Portugal"
  #####################################################################################
  PRC_syndicalism_ADJ:0 "Chinese"
- PRC_syndicalism_DEF:0 "The Jiangxi Soviet"
- PRC_syndicalism:0 "Jiangxi Soviet"
+ PRC_syndicalism_DEF:0 "The Jiangxi Syndicate"
+ PRC_syndicalism:0 "Jiangxi Syndicate"
  PRC_radicalism_ADJ:0 "Chinese"
  PRC_radicalism_DEF:0 "The Jiangxi"
  PRC_radicalism:0 "Jiangxi"

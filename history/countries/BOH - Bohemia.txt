@@ -37,19 +37,19 @@ set_politics = {
 		parties = {
 
 			syndicalism = {
-				popularity = 25
+				popularity = 32
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 48
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 7
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 13
 			}
 
 		}
@@ -62,29 +62,29 @@ set_politics = {
 ############ COUNTRY LEADERS #############
 
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Klement Gottwald"
+	picture = "klement_gottwald.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Zdeněk Fierlinger"
+	picture = "zdenek_fierlinger.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Karel Kramář"
+	picture = "krael_kramar.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Radola Gajda"
+	picture = "radola_gajda.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }

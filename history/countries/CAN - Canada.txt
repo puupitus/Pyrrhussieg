@@ -35,21 +35,21 @@ set_research_slots = 3
 set_politics = {
 
 		parties = {
- 
-syndicalism = {
-				popularity = 25
+
+			syndicalism = {
+				popularity = 26
 			}
 
 			radicalism = {
-				popularity = 25
+				popularity = 14
 			}
 
 			conservatism = {
-				popularity = 25
+				popularity = 37
 			}
 
 			nationalism = {
-				popularity = 25
+				popularity = 23
 			}
 
 		}
@@ -60,31 +60,31 @@ syndicalism = {
 }
 
 ############ COUNTRY LEADERS #############
- 
+
 create_country_leader = {
-  name = ""
-	picture = ""
+  name = "Robert B. Russell"
+	picture = "robert_b_russell.dds"
 	ideology = syndicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "William Lyon Mackenzie King"
+	picture = "william_lyon_mackenzie_king.dds"
 	ideology = radicalist
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Robert Borden"
+	picture = "robert_borden.dds"
 	ideology = conservatistic
 	traits = { ps_default }
 }
 
 create_country_leader = {
-	name = ""
-	picture = ""
+	name = "Adrien Arcand"
+	picture = "adrien_arcand.dds"
 	ideology = nationalist
 	traits = { ps_default }
 }
