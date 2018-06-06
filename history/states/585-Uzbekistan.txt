@@ -9,6 +9,9 @@ state={
 
 		}
 		add_core_of = SOV
+		victory_points = {
+			10470 10
+		}
 	}
 
 	provinces={

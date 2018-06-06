@@ -17,7 +17,7 @@ BUR = { color = rgb { 58 119 40 } }
 CAF = { color = rgb { 96 96 96 } }
 CAN = { color = rgb { 119 48 39 } }
 CEA = { color = rgb { 137 197 227 } }
-CHI = { color = rgb { 95 95 239 } }
+CHI = { color = rgb { 81 105 255 } }
 CHL = { color = rgb { 155 101 107 } }
 COL = { color = rgb { 222 187 91 } }
 CRO = { color = rgb { 39 93 140 } }
@@ -25,7 +25,7 @@ CUB = { color = rgb { 140 65 166 } }
 DEN = { color = rgb { 220 0 0 } }
 ECU = { color = rgb { 249 146 98 } }
 EIN = { color = rgb { 128 158 118 } }
-ELO = { color = rgb { 237 28 36 } }
+ELO = { color = rgb { 0 146 51 } }
 ETH = { color = rgb { 171 226 154 } }
 FIN = { color = rgb { 210 16 52 } }
 FRA	= { color = rgb { 201 56 93 } }
