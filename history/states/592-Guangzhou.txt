@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = CHI
+		owner = PRC
 
 		add_core_of = CHI
 
@@ -31,7 +31,7 @@ state={
 			1047 5
 		}
 
-		 
+
 	}
 
 	provinces={

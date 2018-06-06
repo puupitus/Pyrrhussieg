@@ -17,7 +17,7 @@ BUR = { color = rgb { 58 119 40 } }
 CAF = { color = rgb { 96 96 96 } }
 CAN = { color = rgb { 119 48 39 } }
 CEA = { color = rgb { 137 197 227 } }
-CHI = { color = rgb { 250 0 0 } }
+CHI = { color = rgb { 95 95 239 } }
 CHL = { color = rgb { 155 101 107 } }
 COL = { color = rgb { 222 187 91 } }
 CRO = { color = rgb { 39 93 140 } }
@@ -54,6 +54,7 @@ PHI = { color = rgb { 97 120 165 } }
 PKR = { color = rgb { 109 129 165 } }
 POL	= { color = rgb { 197 92 106 } }
 POR = { color = rgb { 0 102 0 } }
+PRC = { color = rgb { 250 0 0 } }
 PRU = { color = rgb { 235 16 35 } }
 ROM = { color = rgb { 215 196 72 } }
 RUS = { color = rgb { 71 113 97 } }
